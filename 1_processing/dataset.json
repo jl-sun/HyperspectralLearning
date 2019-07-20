@@ -2,29 +2,29 @@
     "path": "../_dataset/",
     "dataset": {
         "indian": {
-            "corrected": true,
-            "file": "Indian_pines",
-            "key": "indian_pines"
+            "file": "Indian_pines_corrected.mat",
+            "gt": "Indian_pines_gt.mat"
         },
         "pavia": {
-            "corrected": false,
-            "file": "Pavia",
-            "key": "pavia"
+            "file": "Pavia.mat",
+            "gt": "Pavia_gt.mat"
         },
         "paviau": {
-            "corrected": false,
-            "file": "PaviaU",
-            "key": "paviaU"
+            "file": "PaviaU.mat",
+            "gt": "PaviaU_gt.mat"
         },
         "salinas": {
-            "corrected": true,
-            "file": "Salinas",
-            "key": "salinas"
+            "file": "Salinas_corrected.mat",
+            "gt": "Salinas_gt.mat"
         },
         "salinasa": {
-            "corrected": true,
-            "file": "SalinasA",
-            "key": "salinasA"
+            "file": "SalinasA_corrected.mat",
+            "gt": "SalinasA_gt.mat"
+        },
+        "airport1": {
+            "file": "abu-airport-1.mat",
+            "img_key": "data",
+            "obj_key": "map"
         }
     }
 }
