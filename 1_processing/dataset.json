@@ -1,0 +1,30 @@
+{
+    "path": "../_dataset/",
+    "dataset": {
+        "indian": {
+            "corrected": true,
+            "file": "Indian_pines",
+            "key": "indian_pines"
+        },
+        "pavia": {
+            "corrected": false,
+            "file": "Pavia",
+            "key": "pavia"
+        },
+        "paviau": {
+            "corrected": false,
+            "file": "PaviaU",
+            "key": "paviaU"
+        },
+        "salinas": {
+            "corrected": true,
+            "file": "Salinas",
+            "key": "salinas"
+        },
+        "salinasa": {
+            "corrected": true,
+            "file": "SalinasA",
+            "key": "salinasA"
+        }
+    }
+}
