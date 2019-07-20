@@ -11,7 +11,6 @@ DS_DIR = DS_CONF['path']
 class SpectralDataset:
     def __init__(self, dataset_name: str):
         def find_key(_ds):
-            print(_ds.keys())
             for _k in _ds.keys():
                 if not _k.startswith('_'):
                     return _k
